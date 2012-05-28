@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!-- ***** resultLength - indicates the total number of results for this feed -->
+  <resultLength>3</resultLength>
+<!-- ***** endIndix - indicates the number of results for this *paged* section of the feed -->
+  <endIndex>3</endIndex>
+
+<!-- ***** Img - valid values are jpg and png images (others?) -->
+  <item sdImg="http://name64.lucasit.com/roku/images/image.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/imagehd.jpg">
+<!-- ***** title - Any string value -->
+    <title></title>
+<!-- ***** Id - value must be a unique number for each item globally -->
+    <contentId>10001</contentId>
+<!-- ***** Type - valid values are movie, episode, season, series, audio -->
+    <contentType>movie</contentType>
+<!-- ***** Quality - valid values are SD and HD -->
+    <contentQuality>SD</contentQuality>
+<!-- ***** Format - valid values are mov, mp4 (mkv and wmv temporarily disabled) -->
+    <streamFormat>mp4</streamFormat>
+    <media>
+<!-- ***** Quality - valid values are SD and HD -->
+      <streamQuality>SD</streamQuality>
+<!-- ***** Bitrate - The average bitrate of the title -->
+      <streamBitrate>1500</streamBitrate>
+<!-- ***** Url - must be a valid http URL -->
+      <streamUrl>http://name64.lucasit.com/roku/Movies/movie.mp4</streamUrl>
+    </media>
+<!-- ***** Synopsis - A free text synopsys -->
+    <synopsis></synopsis>
+<!-- ***** Genres - A comma separated list of fitting genres -->
+    <genres>Clip</genres>
+<!-- ***** Runtime - runtime in seconds -->
+    <runtime>1260</runtime>
+<!-- ***** Rating - valid values are G, PG, PG-13, R, and NC-17 for movies -->
+<!-- ***** Rating - valid values are TV-Y, TV-Y7, TV-G, TV-PG, TV-14, and TV-MA for television -->
+    <rating>R</rating>
+  </item>	
+
+  <item sdImg="http://name64.lucasit.com/roku/images/image.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/imagehd.jpg">
+    <title></title>
+    <contentId>10002</contentId>
+    <contentType>movie</contentType>
+    <contentQuality>SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>1500</streamBitrate>
+      <streamUrl></streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <genres>Clip</genres>
+    <runtime>1260</runtime>
+    <rating>R</rating>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/image.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/imagehd.jpg">
+    <title></title>
+    <contentId>10003</contentId>
+    <contentType>movie</contentType>
+    <contentQuality>SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>1500</streamBitrate>
+      <streamUrl></streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <genres>Clip</genres>
+    <runtime>1260</runtime>
+    <rating>R</rating>
+  </item>
+
+</feed>

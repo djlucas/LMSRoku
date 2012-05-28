@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+  <resultLength>20</resultLength>
+  <endIndex>20</endIndex>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>01 - Pilot</title>
+    <contentId>20101</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>5000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/01-Pilot.mp4</streamUrl>
+    </media>
+    <synopsis>When Flight 627 lands at Logan International Airport, and the passengers and crew are all dead, the Federal task force assigned to investigate the incident recruits a new science team to spearhead the effort.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>4900</runtime>
+  </item>	
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>02 - The Same Old Story</title>
+    <contentId>20102</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>5000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/02-The_Same_Old_Story.mp4</streamUrl>
+    </media>
+    <synopsis>A woman gives birth to a baby which ages 80 years in just a few minutes and Olivia soon finds connection between the incident and a serial killer she had been chasing.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3049</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>03 - The Ghost Network</title>
+    <contentId>20103</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/03-The_Ghost_Network.mp4</streamUrl>
+    </media>
+    <synopsis>Following a strange apparent terrorist attack on a bus, Olivia, Peter and Walter find a man who foresees future disasters before they happen.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3028</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>04 - The Arrival</title>
+    <contentId>20104</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/04-The_Arrival.mp4</streamUrl>
+    </media>
+    <synopsis>A strange cylinder which is somehow connected to Walter and a man known as "the Observer" appears from the ground at a construction site.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2956</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>05 - Power Hungry</title>
+    <contentId>20105</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/05-Power_Hungry.mp4</streamUrl>
+    </media>
+    <synopsis>An elevator crashes, killing a number of people, leading Olivia and the Bishops to a man who appears to unknowingly be able to manipulate electricity.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2971</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>06 - The Cure</title>
+    <contentId>20106</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/06-The_Cure.mp4</streamUrl>
+    </media>
+    <synopsis>A number of people in a diner die of radiation exposure and Olivia and the Bishops believe a woman who disappeared two weeks earlier was the source.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3013</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>07 - In Which We Meet Mr. Jones</title>
+    <contentId>20107</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/07-In_Which_We_Meet_Mr_Jones.mp4</streamUrl>
+    </media>
+    <synopsis>An FBI agent experiencing huge pain is brought to a hospital where it is discovered that there is a strange parasite wrapped around his heart.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3013</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>08 - The Equation</title>
+    <contentId>20108</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/08-The_Equation.mp4</streamUrl>
+    </media>
+    <synopsis>A young musical genius is kidnapped and Walter recalls a patient at St Clair's who might have been kidnapped by the same people and forced to try and figure out the solution to an equation.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2952</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>09 - The Dreamscape</title>
+    <contentId>20109</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/09-The_Dreamscape.mp4</streamUrl>
+    </media>
+    <synopsis>An employee of Massive Dynamics covered in mysterious cuts jumps out a window believing himself to be attacked by a swarm of butterflies. Meanwhile, Olivia becomes fed up with her visions of John Scott and decides to go back into the sensory deprivation tank to get rid of them.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2996</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>10 - Safe</title>
+    <contentId>20110</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/10-Safe.mp4</streamUrl>
+    </media>
+    <synopsis>After a series of mysterious bank robberies, a suspect is found embedded into a wall, causing Walter to realize that they have not only found a way to literally walk through walls, but are looking for something he's made in the past.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2987</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>11 - Bound</title>
+    <contentId>20111</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/11-Bound.mp4</streamUrl>
+    </media>
+    <synopsis>Olivia has been abducted and Broyles hands over the investigation to Mitchell Loeb, one of the kidnappers.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3014</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>12 - The No-Brainer</title>
+    <contentId>20112</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/12-The_No-Brainer.mp4</streamUrl>
+    </media>
+    <synopsis>Two mens' brains are liquefied and their only apparent connection is that they both downloaded a huge file before dying.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3014</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>13 - The Transformation</title>
+    <contentId>20113</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/13-The_Transformation.mp4</streamUrl>
+    </media>
+    <synopsis>A man undergoes a painful and ultimately fatal transformation aboard a plane. Meanwhile, Nina Sharp and Broyles reveal more information about John Scott to Olivia.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3014</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>14 - Ability</title>
+    <contentId>20114</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/14-Ability.mp4</streamUrl>
+    </media>
+    <synopsis>The team investigates a number of people who died faceless after their orifices are sealed while German agents investigating David Robert Jones' escape question Olivia.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3014</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>15 - Inner Child</title>
+    <contentId>20115</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/15-Inner_Child.mp4</streamUrl>
+    </media>
+    <synopsis>A mysterious child is recovered from a secret chamber that has been sealed for more than a half-century.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2983</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>16 - Unleashed</title>
+    <contentId>20116</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/16-Unleashed.mp4</streamUrl>
+    </media>
+    <synopsis>A group of animal rights activists killed in action when trying to flee from a lab animal which doesn't exist in nature.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3014</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>17 - Bad Dreams</title>
+    <contentId>20117</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/17-Bad_Dreams.mp4</streamUrl>
+    </media>
+    <synopsis>FBI agent Dunham believes that she is killing random people in her dreams.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3020</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>18 - Midnight</title>
+    <contentId>20118</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/18-Midnight.mp4</streamUrl>
+    </media>
+    <synopsis>When a second victim is discovered with injuries to the back of the neck, Fringe division is called in to investigate.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3016</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>19 - The Road Not Taken</title>
+    <contentId>20119</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/19-The_Road_Not_Taken.mp4</streamUrl>
+    </media>
+    <synopsis>When a woman bursts into flames and explodes, Olivia and Peter start to look into it, and Olivia starts seeing things -- which Walter explains as possibly her seeing an alternate reality.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>3014</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f1.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f1hd.jpg">
+    <title>20 - There's More Than One of Everything</title>
+    <contentId>20120</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>8000</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-01/20-There_s_More_Than_One_of_Everything.mp4</streamUrl>
+    </media>
+    <synopsis>David Robert Jones comes out of hiding following an attempt on Nina Sharp's life while Walter leaves accompanied by the mysterious Observer.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2828</runtime>
+  </item>
+
+</feed>

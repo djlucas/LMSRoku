@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+  <resultLength>3</resultLength>
+  <endIndex>3</endIndex>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/spongebob.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/spongebobhd.jpg">
+    <title>The Spongebob Squarepants Movie</title>
+    <contentId>30001</contentId>
+    <contentType>movie</contentType>
+    <contentQuality>SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>2400</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/Kids/The_Spongebob_Squarepants_Movie.mp4</streamUrl>
+    </media>
+    <synopsis>There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it look like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.</synopsis>
+    <genres>Childrens</genres>
+    <runtime>5220</runtime>
+    <rating>PG</rating>
+  </item>	
+
+  <item sdImg="http://name64.lucasit.com/roku/images/kids.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/kidshd.jpg">
+    <title>Wiggles - 01 Wiglly Land</title>
+    <contentId>30002</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>1500</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/Kids/01-Wiggly_Land.mp4</streamUrl>
+    </media>
+    <synopsis>Dancing, playing music, kids love it!</synopsis>
+    <genres>Childrens</genres>
+    <runtime>1320</runtime>
+    <rating>TV-Y</rating>
+  </item>
+
+</feed>

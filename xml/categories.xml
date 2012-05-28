@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+  <!-- banner_ad: optional element which displays an at the top level category screen -->
+  <!-- <banner_ad sd_img="http://name64.lucasit.com/roku/images/advertisement.png"
+                  hd_img="http://name64.lucasit.com/roku/images/advertisement.png"/> -->
+	  
+
+  <category title="Movies"
+            description="name64.lucasit.com Movie Collection"
+            sd_img="http://name64.lucasit.com/roku/images/movie.jpg"
+            hd_img="http://name64.lucasit.com/roku/images/moviehd.jpg">
+    <categoryLeaf title="Action &amp; Adventure"
+                  description="" 
+                  feed="http://name64.lucasit.com/roku/xml/action.xml"/>
+<!--    <categoryLeaf title="Drama"
+                  description=""
+                  feed="http://name64.lucasit.com/roku/xml/drama.xml" />
+    <categoryLeaf title="Horror"
+                  description=""
+                  feed="http://name64.lucasit.com/roku/xml/horror.xml" /> -->
+  </category>
+
+
+
+  <category title="TV"
+            description="Telivision Shows"
+            sd_img="http://name64.lucasit.com/roku/images/tv.jpg"
+            hd_img="http://name64.lucasit.com/roku/images/tvhd.jpg">
+    <categoryLeaf title="Fringe Season 1"
+                  description=""
+                  feed="http://name64.lucasit.com/roku/xml/fringe1.xml" />
+<!--    <categoryLeaf title="Fringe Season 2"
+                  description=""
+                  feed="http://name64.lucasit.com/roku/xml/fringe2.xml" /> -->
+  </category>
+
+  <category title="Kids Stuff"
+            description="Recording for the Kids"
+            sd_img="http://name64.lucasit.com/roku/images/kids.jpg"
+            hd_img="http://name64.lucasit.com/roku/images/kidshd.jpg">
+    <categoryLeaf title="Movies"
+                  description=""
+                  feed="http://name64.lucasit.com/roku/xml/kids.xml"/>
+<!--    <categoryLeaf title="TV Shows"
+                  description=""
+                  feed="http://name64.lucasit.com/roku/xml/kidstv.xml" /> -->
+  </category>
+
+</categories>
