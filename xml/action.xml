@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-  <resultLength>3</resultLength>
-  <endIndex>3</endIndex>
+  <resultLength>4</resultLength>
+  <endIndex>4</endIndex>
 
   <item sdImg="http://name64.lucasit.com/roku/images/matrix.jpg"
         hdImg="http://name64.lucasit.com/roku/images/matrixhd.jpg">
@@ -59,6 +59,26 @@
     <synopsis>The human city of Zion defends itself against the massive invasion
               of the machines as Neo fights to end the war at another front
               while also opposing the rogue Agent Smith.</synopsis>
+    <genres>Action,Suspense,Sci-Fi</genres>
+    <runtime>7740</runtime>
+    <rating>R</rating>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/avatar3d.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/avatar3dhd.jpg">
+    <title>Avatar 3D (SBS)</title>
+    <contentId>10004</contentId>
+    <contentType>movie</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>4400</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/Movies/Avatar3D.m4v</streamUrl>
+    </media>
+    <synopsis>A paraplegic Marine dispatched to the moon Pandora on a unique
+    mission becomes torn between following his orders and protecting the world
+    he feels is his home.</synopsis>
     <genres>Action,Suspense,Sci-Fi</genres>
     <runtime>7740</runtime>
     <rating>R</rating>

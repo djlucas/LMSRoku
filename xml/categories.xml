@@ -30,9 +30,12 @@
     <categoryLeaf title="Fringe Season 1"
                   description=""
                   feed="http://name64.lucasit.com/roku/xml/fringe1.xml" />
-<!--    <categoryLeaf title="Fringe Season 2"
+    <categoryLeaf title="Fringe Season 2"
                   description=""
-                  feed="http://name64.lucasit.com/roku/xml/fringe2.xml" /> -->
+                  feed="http://name64.lucasit.com/roku/xml/fringe2.xml" />
+    <categoryLeaf title="Fringe Season 3"
+                  description=""
+                  feed="http://name64.lucasit.com/roku/xml/fringe3.xml" />
   </category>
 
   <category title="Kids Stuff"

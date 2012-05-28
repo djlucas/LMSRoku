@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+  <resultLength>22</resultLength>
+  <endIndex>22</endIndex>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Olivia</title>
+    <contentId>20301</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/44-Olivia_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/44-Olivia_720p.m4v</streamUrl>
+    </media>
+    <synopsis>After the extraordinary turn of events that shockingly left an imprisoned Olivia "over there," she fights to find her way home. Meanwhile, Peter and Walter try to move on with their lives unknowingly alongside alternate Olivia.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2639</runtime>
+  </item>	
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>The Box</title>
+    <contentId>20302</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/45-The_Box_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/45-The_Box_720p.m4v</streamUrl>
+    </media>
+    <synopsis>The story alternates to the Fringe Team "over here" where they investigate a mystifying case that people are discovered in a trance-like state that ultimately leads to their death. The unlikely suspect: a mysterious box. As Peter and Walter collaborate to study its properties, alternate Olivia presses on and turns up the heat on an unsuspecting Peter. Meanwhile, key information about the future is revealed when Walter and Nina meet at Massive Dynamic for the emotional reading of the last will and testament of William Bell.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2639</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>The Plateau</title>
+    <contentId>20303</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/46_The_Plateau_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/46-The_Plateau_720p.m4v</streamUrl>
+    </media>
+    <synopsis>In this case, timing is everything as a series of anomalous events lead the Fringe Division to investigate deadly incidents with unimaginable coincidences. As the freaky crimes continue to occur, the team is in a race against time to protect potential victims. Meanwhile, Secretary Bishop shares his strategic plan with Colonel Broyles as Olivia grapples with a heart-stopping vision.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2640</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Do Shapeshifters Dream of Electric Sheep?</title>
+    <contentId>20304</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/47-Do_Shapeshifters_Dream_of_Electric_Sheep_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/47-Do_Shapeshifters_Dream_of_Electric_Sheep_720p.m4v</streamUrl>
+    </media>
+    <synopsis>Newton, concerned about the consequences of a distressing development involving a high-ranking official, is forced to call to action a sleeping shapeshifter. As Walter and the rest of the team gather evidence, they move the investigation to Massive Dynamic, where Olivia goes on high alert and Walter finds himself in a perilous situation.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2638</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Amber 31422</title>
+    <contentId>20305</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/48-Amber_31422_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/48-Amber_31422_720p.m4v</streamUrl>
+    </media>
+    <synopsis>The alternate universe Fringe Division investigates a shocking breach of security when a twin frees his brother from a quarantined Amber area. As the team sets out to crack this sophisticated case, Walternate experiments over there more with Olivia as she reenters the tank. Meanwhile, visions of Peter continue to haunt Olivia about returning to the "other side."</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2639</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>6955 kHz</title>
+    <contentId>20306</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/49-6955_kHz_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/49-6955_kHz_720p.m4v</streamUrl>
+    </media>
+    <synopsis>Back "over here," the Fringe Division investigates a bizarre phenomenon when 15 people up and down the Eastern Seaboard, all suffer retrograde amnesia from listening to their shortwave radios on the same frequency. Much to Walter's dismay, Peter presses on with piecing together the mass destruction device. Just as alternate Olivia and Peter's chemistry deepens, the anticipation of Olivia's return escalates.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2639</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>The Abducted</title>
+    <contentId>20307</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/50-The_Abducted_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/50-The_Abducted_720p.m4v</streamUrl>
+    </media>
+    <synopsis>When a serial kidnapper "over there" strikes again, the emotional and familiar case hits home for Colonel Broyles, sending a determined Olivia to uncover additional details about the abductions. In the meantime, Olivia fights on and reunites with Henry to enlist his services on an intense and covert mission to return home.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2629</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Entrada</title>
+    <contentId>20308</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/51-Entrada_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/51-Entrada_720p.m4v</streamUrl>
+    </media>
+    <synopsis>Peter grapples with the aftermath of recent events as Olivia desperately searches for an ally. Meanwhile, the Fringe Team discovers a critical device that communicates between universes.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2638</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Marionette</title>
+    <contentId>20309</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/52-Marionette_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/52-Marionette_720p.m4v</streamUrl>
+    </media>
+    <synopsis>When the Fringe Team investigates a case where a victim had his heart extracted, it's just the beginning of a series of mysterious and reanimating events tied together. Meanwhile, Peter comes to terms with the reality of his relationship with Olivia.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2638</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>The Firefly</title>
+    <contentId>20310</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/53-The_Firefly_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/53-The_Firefly_720p.m4v</streamUrl>
+    </media>
+    <synopsis>An Observer makes contact with the Fringe Team to help rectify a mistake. Meanwhile, Walter befriends Roscoe Joyce, keyboardist for Walter's favorite 1970s band, "Violet Sedan Chair." Walter will learn the real reason the band broke up, and realize that the lives of these two men, who have never met before, overlap in strange and unexpected ways.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2641</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Reciprocity</title>
+    <contentId>20311</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/54-Reciprocity_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/54-Reciprocity_720p.m4v</streamUrl>
+    </media>
+    <synopsis>When the Fringe Team visits Massive Dynamic's assembly of doomsday device, Walter becomes greatly concerned for Peter's well-being, so he turns to Nina for added brain power to understand the relationship between Peter and the super-weapon. Meanwhile, the discovery of a dead body triggers an intense investigation.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2589</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Concentrate and Ask Again</title>
+    <contentId>20312</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/55-Concentrate_And_Ask_Again_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/55-Concentrate_And_Ask_Again_720p.m4v</streamUrl>
+    </media>
+    <synopsis>When a scientist falls dead after ingesting a lethal cloud of blue powder and his bones disintegrate in his body, the CDC suspects a biological attack. As the Fringe Team investigates further, a subject from Walter's past with ties to Olivia reluctantly agrees to assist with the intense case.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2624</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Immortality</title>
+    <contentId>20313</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/56-Immortality_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/56-Immortality_720p.m4v</streamUrl>
+    </media>
+    <synopsis>As the story shifts back to life "over there," the absence of Colonel Broyles shifts the dynamic of the Fringe Team as they investigate a bioterrorist armed with an insect that has a taste for human flesh. Meanwhile, alternate Olivia is reunited with her beau, and Walternate remains determined to save his world but discovers there are certain lines he will not cross.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2640</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>6B</title>
+    <contentId>20314</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/57-6_B_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/57-6_B_720p.m4v</streamUrl>
+    </media>
+    <synopsis>A series of Fringe events leads the team to the home of a woman grieving over the death of her husband, while Peter and Olivia make an effort to repair the emotional rift between them.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2630</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Subject 13</title>
+    <contentId>20315</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/58-Subject_13_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/58-Subject_13_720p.m4v</streamUrl>
+    </media>
+    <synopsis>This follow-up to last season's "Peter" flashback episode revisits a poignant period of time for both the Bishops and Olivia.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2639</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Os</title>
+    <contentId>20316</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/59-Os_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/59-Os_720p.m4v</streamUrl>
+    </media>
+    <synopsis>The team investigates a gang of thieves who can defy gravity; Walter assesses the harm he's caused to the fabric of the universe.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2619</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Stowaway</title>
+    <contentId>20317</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/60-Stowaway_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/60-Stowaway_720p.m4v</streamUrl>
+    </media>
+    <synopsis>When the Fringe team investigates an apparent suicide victim, they uncover a second set of fingerprints leading them to a woman with uncanny characteristics that cannot die.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2634</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Bloodline</title>
+    <contentId>20318</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/61-Bloodline_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/61-Bloodline_720p.m4v</streamUrl>
+    </media>
+    <synopsis>The intensity of life "over there" accelerates as Olivia finds herself in mortal danger.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2593</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>Lysergic Acid Diethylamide</title>
+    <contentId>20319</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/62-Lysergic_Acid_Diethylamide_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/62-Lysergic_Acid_Diethylamide_720p.m4v</streamUrl>
+    </media>
+    <synopsis>The team makes a desperate attempt to remove William Bell's consciousness from Olivia's body before she's lost forever.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2638</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>6:02 AM EST</title>
+    <contentId>20320</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/63-6:02_AM_EST_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/63-6:02_AM_EST_720p.m4v</streamUrl>
+    </media>
+    <synopsis>The beginning of the end is triggered when Walternate finds a way to wreak havoc "over here."</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2580</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>The Last Sam Weiss</title>
+    <contentId>20321</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/64-The_Last_Sam_Weiss_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/64-The_Last_Sam_Weiss_720p.m4v</streamUrl>
+    </media>
+    <synopsis>Olivia joins forces with the mysterious Sam Weiss in a desperate race against time.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2603</runtime>
+  </item>
+
+  <item sdImg="http://name64.lucasit.com/roku/images/f3.jpg"
+        hdImg="http://name64.lucasit.com/roku/images/f3hd.jpg">
+    <title>The Day We Died</title>
+    <contentId>20322</contentId>
+    <contentType>episode</contentType>
+    <contentQuality>HD,SD</contentQuality>
+    <streamFormat>mp4</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/65-The_Day_We_Died_720p.m4v</streamUrl>
+    </media>
+    <media>
+      <streamQuality>SD</streamQuality>
+      <streamBitrate>6100</streamBitrate>
+      <streamUrl>http://name64.lucasit.com/roku/TV/Fringe/Season-03/65-The_Day_We_Died_720p.m4v</streamUrl>
+    </media>
+    <synopsis>Peter successfully enters the machine with Olivia's help, and is transported to the near future where Walternate's universe is the one which has been destroyed. Peter learns about the origins of the machine and its ultimate purpose.</synopsis>
+    <genres>Sci-Fi</genres>
+    <rating>TV-14</rating>
+    <runtime>2638</runtime>
+  </item>
+
+</feed>
