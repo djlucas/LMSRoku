@@ -68,8 +68,15 @@ Function showDetailScreen(screen As Object, showList As Object, showIndex as Int
                     showList[showIndex].PlayStart = 0
                     showVideoScreen(showList[showIndex])
                 endif
-'                if msg.GetIndex() = 3
-'                endif
+                if msg.GetIndex() = 3
+                    for each video in showList
+                        showList[showIndex].PlayStart = 0
+                        returnvalue=showVideoScreen(video)
+                        if returnvalue=-2 then
+                            exit for
+                        end if
+                    next
+                endif
                 print "Button pressed: "; msg.GetIndex(); " " msg.GetData()
             end if
         else
@@ -97,12 +104,13 @@ Function refreshShowDetail(screen As Object, showList As Object, showIndex as In
 
     show = showList[showIndex]
 
-    'DEBUG Uncomment this statement to dump the details for each show
-    PrintAA(show)
+    'Uncomment this statement to dump the details for each show
+    'PrintAA(show)
 
     screen.ClearButtons()
-    screen.AddButton(1, "resume")    
-    screen.AddButton(2, "play")    
+    screen.AddButton(2, "Play")    
+    screen.AddButton(3, "Play All")
+    screen.AddButton(1, "Resume")
     screen.SetContent(show)
     screen.Show()
 
