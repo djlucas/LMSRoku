@@ -18,6 +18,6 @@
 APPNAME = LMSRoku
 VERSION = 1.0
 
-ZIP_EXCLUDE= -x xml/* -x zips/* -x app.mk -x Makefile -x README.txt
+ZIP_EXCLUDE= -x xml/* -x zips/* -x app.mk -x Makefile -x README
 
 include app.mk
