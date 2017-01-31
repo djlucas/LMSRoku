@@ -1,6 +1,8 @@
 README
 
-This project is simply a more complete sample, posted only as that, an example.
+This project is simply a more complete sample, posted only as that, an example
+and is only here for historical reasons. There are much better products
+available now. Try Plex.
 
 This was my first local media project which started from the TED example. I've
 made some very simple changes like a 'Play All' button that plays all episodes
@@ -14,10 +16,7 @@ files that say rocksbox does not, mkv files for instance (which are not enabled
 in this sample). I'll update that later. Anyway, everthing in this tree is free
 for the taking, just figured I'd throw it up in case anybody found something
 useful. After I get around to testing with this sample code again, I'll extend
-it here too and include what I currently have in my internal one. I also plan to
-recreate the functionaliy of TheNowhereMan's YouTube channel and keep it only
-in source as well, though that has proven difficult thus far, but keep an eye
-on YTRoku for a first commit.
+it here too and include what I currently have in my internal one. 
 
 HTH
 
